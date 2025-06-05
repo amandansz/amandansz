@@ -1,4 +1,8 @@
-## Oiii! Seja bem vindo👋
+# 👩🏻‍💻 Amanda Souza
+
+**`Desenvolvedora FrontEnd`**
+
+Me chamo Amanda Nunes de Souza, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Ciência da Computação. Sou apaixonada por tecnologia, estou sempre de olho em aprender coisas novas! Estudo inglês todos os dias e venho mergulhando no universo do Back-End pra, em breve, conquistar meu lugar como dev Full Stack 🚀
 
 
 <div style="display: inline_block"><br>
@@ -10,8 +14,6 @@
   
   
 <div 
-  <a href = "mailto:dev.amandasouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amanda.nsz-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/amanda.nsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+  
+ 
 
