@@ -1,4 +1,4 @@
-# Amanda Souza👩🏻‍💻 
+# Amanda Souza 👩🏻‍💻 
 
 **`Desenvolvedora Back-End`**
 
@@ -6,8 +6,8 @@ Atualmente cursando Ciência da Computação venho praticando com projetos e des
 
   
 ---
-
-### 🤖 Linguagens e Tecnologias
+ 
+###   🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
