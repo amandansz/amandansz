@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-End`**
 
-Atualmente cursando Ciência da Computação venho praticando com projetos e desafios reais no mundo de desenvolvimento de software. Seja bem vindo 🩷
+Atualmente cursando Ciência da Computação venho praticando com projetos e desafios reais no mundo de desenvolvimento de software. Seja bem vindo!
 
   
 ---
