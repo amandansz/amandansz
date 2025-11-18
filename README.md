@@ -2,17 +2,13 @@
 
 **`Desenvolvedora Back-end`**
 
-`<h1>Hello World!</h1>`
+Oi! Sou Amanda Souza, desenvolvedora e amante de tecnologia  
 
-Por aqui compartilho projetos onde me desafio a melhorar 1% todos os dias. Cada repositório reflete organização, atenção aos detalhes e compromisso com boas práticas de programação.  
+Por aqui eu compartilho os projetos na qual tenho me desafiado e colocado aprendizados na prática, vejo cada repositório como uma oportunidade de evoluir um pouco a cada dia e de fazer as coisas de forma organizada e prática.  
 
-Meu objetivo é evoluir continuamente como desenvolvedora, integrando aprendizado teórico e projetos práticos, e criando soluções funcionais, escaláveis e bem estruturadas.  
+Se quiser dar uma olhada, acompanhar meu progresso ou até sugerir melhorias, fique à vontade!  
+Ah, e café + código é praticamente meu lema por aqui rsrs
 
-Sinta-se à vontade para explorar meus projetos, acompanhar meu progresso e me dar sugestões de melhorias!  
-E claro… café e muito código, rsrs ☕💻
-
-
-  
 ---
  
 ###   🤖 Linguagens e Tecnologias
