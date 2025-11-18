@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Oi! Sou Amanda Souza, desenvolvedora e amante de tecnologia  
+Oi! Sou Amanda Souza, desenvolvedora e amante de tecnologia!
 
 Por aqui eu compartilho os projetos na qual tenho me desafiado e colocado aprendizados na prática, vejo cada repositório como uma oportunidade de evoluir um pouco a cada dia e de fazer as coisas de forma organizada e prática.  
 
