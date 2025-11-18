@@ -1,8 +1,16 @@
 # Amanda Souza 👩🏻‍💻 
 
-**`Desenvolvedora Back-End`**
+**`Desenvolvedora Back-end`**
 
-Atualmente cursando Ciência da Computação venho praticando com projetos e desafios reais no mundo de desenvolvimento de software. Seja bem vindo!
+`<h1>Hello World!</h1>`
+
+Por aqui compartilho projetos onde me desafio a melhorar 1% todos os dias. Cada repositório reflete organização, atenção aos detalhes e compromisso com boas práticas de programação.  
+
+Meu objetivo é evoluir continuamente como desenvolvedora, integrando aprendizado teórico e projetos práticos, e criando soluções funcionais, escaláveis e bem estruturadas.  
+
+Sinta-se à vontade para explorar meus projetos, acompanhar meu progresso e me dar sugestões de melhorias!  
+E claro… café e muito código, rsrs ☕💻
+
 
   
 ---
