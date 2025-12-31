@@ -8,7 +8,7 @@ Por aqui eu compartilho os projetos na qual tenho me desafiado e colocado a mão
 
 Se quiser dar uma olhada, acompanhar meu progresso ou até sugerir melhorias, fique à vontade!  
 
-Ah, e café + código é praticamente meu lema por aqui rsrs
+
 
 ---
  
