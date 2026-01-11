@@ -12,7 +12,7 @@ Se quiser dar uma olhada, acompanhar meu progresso ou até sugerir melhorias, fi
 
 ---
  
-###   🤖 Linguagens e Tecnologias
+###    Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -47,14 +47,7 @@ Se quiser dar uma olhada, acompanhar meu progresso ou até sugerir melhorias, fi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+
 
 <img 
     align="left" 
