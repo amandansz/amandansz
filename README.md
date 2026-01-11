@@ -1,18 +1,21 @@
-# Amanda Souza 👩🏻‍💻 
+# Amanda Souza
 
-**`Desenvolvedora Back-end`**
+**` Desenvolvedora Back-end 👩🏻‍💻`**
 
-Oi! Sou Amanda Souza, desenvolvedora e amante de tecnologia!
+Oi! Sou Amanda, estudante de Ciência da Computação e desenvolvedora back-end.
 
-Por aqui eu compartilho os projetos na qual tenho me desafiado e colocado a mão na massa, vejo cada repositório como uma oportunidade de evoluir um pouco a cada dia e de fazer as coisas de forma organizada e prática.  
+Tenho me dedicado ao estudo de lógica de programação com a linguagem PHP, versionamento de código e banco de dados, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
 
-Se quiser dar uma olhada, acompanhar meu progresso ou até sugerir melhorias, fique à vontade!  
+Por aqui compartilho projetos nos quais venho me desafiando e me dedicando. Vejo cada repositório como uma oportunidade de aprendizado, crescimento e responsabilidade.
 
+Você encontrará desde formulários utilizando a stack front-end com JavaScript, HTML e CSS, landing pages, calculadora de projeto acadêmico e diversos exercícios de lógica de programação.
+
+**` 💌  Sinta-se à vontade para explorar os repositórios, dicas e feedbacks serão sempre bem-vindos!`**
 
 
 ---
  
-###    Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
