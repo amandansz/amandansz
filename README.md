@@ -6,8 +6,6 @@ Oi! Sou Amanda, estudante de Ciência da Computação e desenvolvedora back-end.
 
 Tenho me dedicado ao estudo de lógica de programação com a linguagem PHP, versionamento de código e banco de dados, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
 
-Por aqui compartilho projetos nos quais venho me desafiando e me dedicando. Vejo cada repositório como uma oportunidade de aprendizado, crescimento e responsabilidade.
-
 Você encontrará desde formulários utilizando a stack front-end com JavaScript, HTML e CSS, landing pages, calculadora de projeto acadêmico e diversos exercícios de lógica de programação.
 
 **` 💌  Sinta-se à vontade para explorar os repositórios, dicas e feedbacks serão sempre bem-vindos!`**
