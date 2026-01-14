@@ -1,8 +1,8 @@
-# Amanda Souza
+# Oii, bem-vindo ao meu perfil! ♡
 
 **` Desenvolvedora Back-end 👩🏻‍💻`**
 
-Oi! Sou Amanda, estudante de Ciência da Computação e desenvolvedora back-end.
+Me chamo Amanda, sou estudante de Ciência da Computação e desenvolvedora back-end.
 
 Tenho me dedicado ao estudo de lógica de programação com a linguagem PHP, versionamento de código e banco de dados, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
 
