@@ -1,4 +1,4 @@
-# Oii, bem-vindo ao meu perfil! ♡👋
+# Oii, bem-vindo ao meu perfil!👋
 
 **` Desenvolvedora Back-end 👩🏻‍💻`**
 
