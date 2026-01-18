@@ -4,7 +4,7 @@
 
 Me chamo Amanda, sou estudante de Ciência da Computação e desenvolvedora back-end.
 
-Tenho me dedicado à especialização em lógica de programação e versionamento de código, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
+Tenho me dedicado à especialização em lógica de programação, versionamento de código e banco de dados MySQL, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
 
 Você encontrará desde formulários utilizando a stack front-end com JavaScript, HTML e CSS, landing pages, calculadora de projeto acadêmico e diversos exercícios de lógica de programação.
 
