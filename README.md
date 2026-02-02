@@ -8,9 +8,9 @@ Tenho me dedicado à especialização em lógica de programação, versionamento
 
 Você encontrará:  
 - Formulários com **JavaScript, HTML e CSS**  
-- **Landing pages**  
+- **Landing page**  
 - **Calculadora de projeto acadêmico**  
-- Diversos **exercícios de lógica de programação**  
+- Práticas diárias com **exercícios de lógica de programação**  
 
 **`💌 Sinta-se à vontade para explorar os repositórios, dicas e feedbacks serão sempre bem-vindos!`**
 
