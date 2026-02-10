@@ -1,63 +1,33 @@
-# Oii, bem-vindo ao meu perfil!👋
+<div align="center">
 
-**`Desenvolvedora Back-end 👩🏻‍💻`**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amanda%20Souza&SfontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descSize=20&descAlignY=55)
+  
+  <samp>
+    ✦ Graduanda em Ciência da Computação <br>
+    ✦ Focada em boas práticas, lógica e modelos de negócio<br>
+    ✦ Construindo experiência em JavaScript, APIs REST e bancos de dados. <br>
+    ✦ Forte foco em performance, seguranca e boas praticas <br>
 
-Me chamo Amanda, sou estudante de Ciência da Computação e desenvolvedora back-end.
 
-Tenho me dedicado à especialização em lógica de programação, versionamento de código e banco de dados MySQL, com o objetivo de implementar a lógica de processamento e validação de dados em projetos como formulários e aplicações web.
+### Linguagens e tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Você encontrará:  
-- Formulários com **JavaScript, HTML e CSS**  
-- **Landing page**  
-- **Calculadora de projeto acadêmico**  
-- Práticas diárias com **exercícios de lógica de programação**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![APIs REST](https://img.shields.io/badge/APIs%20REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
-**`💌 Sinta-se à vontade para explorar os repositórios, dicas e feedbacks serão sempre bem-vindos!`**
 
----
 
-### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
 
-<br/>
-<br/>
+----
+      
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![Email](https://img.shields.io/badge/Email-1F2933?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.amandasouza@gmail.com)
+
+
