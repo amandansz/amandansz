@@ -28,6 +28,7 @@
 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2933?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandansz)
-[![Email](https://img.shields.io/badge/Email-1F2933?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.amandasouza@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1F2933?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dev.amandasouza@gmail.com)
+
 
 
