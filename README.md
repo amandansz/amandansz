@@ -12,9 +12,12 @@
     ✦ Construindo experiência em JavaScript, APIs REST e bancos de dados <br>
     ✦ Soluções orientadas à experiência do usuário, com foco em código limpo e resolução de problemas <br>
 
+------
 
+<div align="center">
+  <samp><b>Stack</b></samp>
+  <br><br>
 
-### Linguagens e tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
