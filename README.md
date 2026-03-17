@@ -1,7 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Amanda%20Souza&SfontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&20descSize=20&descAlignY=55)
-  
+  <br>
+
+
+  <br><br>
+<p align="center">
+  <samp><b>Amanda Souza</b></samp>
+</p>
+
+  <br><br>
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=800&size=40&pause=650&color=C8B68A&center=true&vCenter=true&width=1000&lines=Backend+Developer"
+    alt="Backend Developer"
+  />
+
+  <br><br>
 <div align="center">
   <samp><b>Sobre mim</b></samp>
   <br><br>
@@ -18,18 +32,28 @@
   <samp><b>Stack</b></samp>
   <br><br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+
+  
+  <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000" />
+    <img src="https://img.shields.io/badge/PHP-ECDED1?style=for-the-badge&logo=php&logoColor=000000" />
+    <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000" />
+    <img src="https://img.shields.io/badge/GitHub-ECDED1?style=for-the-badge&logo=github&logoColor=000000" />
+  /><br/>
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![APIs REST](https://img.shields.io/badge/APIs%20REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 
+  <br/>
+
+
+
+  <img src="https://img.shields.io/badge/MySQL-ECDED1?style=for-the-badge&logo=mysql&logoColor=000000" />
+  <img src="https://img.shields.io/badge/HTML5-ECDED1?style=for-the-badge&logo=html5&logoColor=000000" />
+  <img src="https://img.shields.io/badge/CSS3-ECDED1?style=for-the-badge&logo=css3&logoColor=000000" />
+  <img src="https://img.shields.io/badge/APIs_REST-ECDED1?style=for-the-badge&logo=postman&logoColor=000000"/>
+
+</div>
 
 <br>
 <samp><b>📫 Vamos nos conectar</b></samp>
