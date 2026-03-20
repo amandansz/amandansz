@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/PHP-ECDED1?style=for-the-badge&logo=php&logoColor=000000" />
     <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000" />
     <img src="https://img.shields.io/badge/GitHub-ECDED1?style=for-the-badge&logo=github&logoColor=000000" />
-  /><br/>
+  <br/>
 
 
 
