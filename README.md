@@ -27,28 +27,12 @@
     ✦ Soluções orientadas à experiência do usuário, com foco em código limpo e resolução de problemas <br>
 
 ------
+### Tecnologias
 
-<div align="center">
-  <samp><b>Stack</b></samp>
-  <br><br>
-
-<div align="center">
-
-  
-  <img src="https://img.shields.io/badge/JavaScript-ECDED1?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C%23-ECDED1?style=for-the-badge&logo=csharp&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Git-ECDED1?style=for-the-badge&logo=git&logoColor=000000" />
-  <img src="https://img.shields.io/badge/GitHub-ECDED1?style=for-the-badge&logo=github&logoColor=000000" />
-  <br/>
-  <br/>
-
-
-
-  <img src="https://img.shields.io/badge/MySQL-ECDED1?style=for-the-badge&logo=mysql&logoColor=000000" />
-  <img src="https://img.shields.io/badge/HTML5-ECDED1?style=for-the-badge&logo=html5&logoColor=000000" />
-  <img src="https://img.shields.io/badge/CSS3-ECDED1?style=for-the-badge&logo=css3&logoColor=000000" />
-  <img src="https://img.shields.io/badge/APIs_REST-ECDED1?style=for-the-badge&logo=postman&logoColor=000000"/>
-
+```text
+  Python · C# · JavaScript
+ MySQL  ·  IBM Watson  · Git
+```
 
 </div>
 
