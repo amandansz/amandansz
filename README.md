@@ -4,15 +4,12 @@
 
 
   <br><br>
-<p align="center">
-  <samp><b>Amanda Souza</b></samp>
-</p>
 
   <br><br>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=800&size=40&pause=650&color=C8B68A&center=true&vCenter=true&width=1000&lines=Backend+Developer"
-    alt="Backend Developer"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=800&size=40&pause=650&color=C8B68A&center=true&vCenter=true&width=1000&lines=Amanda+Nunes"
+    alt="Amanda Nunes"
   />
 
   <br><br>
